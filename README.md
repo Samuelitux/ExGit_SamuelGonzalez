@@ -12,7 +12,7 @@ La web oficial del club es [Web Oficial]((https://docs.github.com/es/get-started
 
 Descarga el contenido del repositorio clonandolo en tu equipo, con el comando 
 
-<imagenes/logo.png>
+(imagenes/logo.png)
 
 ```
 git clone
